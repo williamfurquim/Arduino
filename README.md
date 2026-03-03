@@ -1,6 +1,7 @@
 Projeto simples utilizando ESP32 e a biblioteca WiFi.h para criar um servidor web local capaz de controlar dois pinos GPIO pelo navegador.
 
 👉 VISÃO GERAL
+
 O ESP32 opera em modo Access Point (AP), criando sua própria rede Wi-Fi. Ao conectar-se a essa rede, o usuário acessa uma página web hospedada no próprio microcontrolador, onde é possível ligar e desligar dois LEDs conectados aos pinos 16 e 17.
 
 👉 FUNCIONAMENTO

@@ -13,6 +13,7 @@ O ESP32 opera em modo Access Point (AP), criando sua própria rede Wi-Fi. Ao con
 - O ESP32 interpreta a requisição e altera o estado dos GPIOs
 
 👉 CONCEITOS UTILIZADOS
+
 ⏺️ REDE
 - Modo Access Point
 - Servidor HTTP com WiFiServer
